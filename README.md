@@ -1,8 +1,10 @@
 Telemachus
 ============
 
-  * Play: http://gamejs.org/apps/telemachus/
-  * Code: http://github.com/oberhamsi/telemachus-gamejs/
+A Gamejs.org application built for the Global Game Jam 2011.
+
+  * Play: <http://gamejs.org/apps/telemachus/>
+  * Code: <http://github.com/oberhamsi/telemachus-gamejs/>
 
 I reused @michalbe's <http://michalbe.blogspot.com/> artwork and game design for this game.
 
